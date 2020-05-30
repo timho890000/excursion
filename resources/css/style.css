@@ -4,7 +4,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
+.header--main {
+
     color:white;
     font-size:50px;
+    font-weight:normal;
+
 }
